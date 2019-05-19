@@ -1,0 +1,6 @@
+[submodule "src/Dragster"]
+	path = src/Dragster
+	url = https://github.com/amperka/Dragster.git
+[submodule "src/Octoliner"]
+	path = src/Octoliner
+	url = https://github.com/amperka/Octoliner.git
